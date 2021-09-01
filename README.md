@@ -1,5 +1,5 @@
 ## Olá, eu sou o Osiel Santos! 👨‍💼
-### No momento estou aprendendo !Java!  _Git_, mas logo irei avançar para outras linguagens da stack de web development.
+### No momento estou aprendendo !Java@  _Git_, mas logo irei avançar para outras linguagens da stack de web development.
 
 #### _Dê uma olhada no meu [repositório sobre aprendizado de idiomas](https://github.com/OsielJr/Aprender-idiomas)!_
 
