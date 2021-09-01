@@ -12,7 +12,9 @@
   <img align="center" alt="Osi-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Osi-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
+ 
  ##
+ 
  ### Contato
  <div> 
    <a href = "mailto:osieljr2011@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png" target="_blank"></a>
