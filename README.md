@@ -1,5 +1,7 @@
-## Olá, eu sou o @OsielJr
-#### No momento estou aprendendo Java e Git, mas logo irei avançar para outras linguagens da stack de web development
+## Olá, eu sou o Osiel Santos
+### No momento estou aprendendo Java e Git, mas logo irei avançar para outras linguagens da stack de web development.
+
+##
 
  <div>
   <a href="https://github.com/OsielJr">
