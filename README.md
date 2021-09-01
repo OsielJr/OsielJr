@@ -17,6 +17,6 @@
  
  ### Contato
  <div> 
-   <a href = "mailto:osieljr2011@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png" target="_blank"></a>
+   <a href = "mailto:osieljr2011@hotmail.com"><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/osiel-s-27561410b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
