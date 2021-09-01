@@ -12,3 +12,9 @@
   <img align="center" alt="Osi-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Osi-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
+ ##
+ ### Contato
+ <div> 
+   <a href = "mailto:osieljr2011@hotmail.com"><img src="https://image.flaticon.com/icons/png/512/732/732223.png"></a>
+  <a href="https://www.linkedin.com/in/osiel-s-27561410b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
