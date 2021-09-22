@@ -1,5 +1,5 @@
 ## Olá, eu sou o Osiel Santos! 👨‍💼
-### No momento estou aprendendo _JavaScript_, _HTML_, _CSS_, e _Git_, mas logo irei avançar para outras linguagens da stack de Web Development.
+### No momento estou aprendendo _JavaScript_, _HTML_, _CSS_ e _Git_, mas logo irei avançar para outras linguagens da stack de Web Development.
 
 #### _Dê uma olhada no meu [repositório sobre aprendizado de idiomas](https://github.com/OsielJr/Aprender-idiomas)!_ 📖
 
